@@ -45,5 +45,5 @@ const mistaDev = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&section=footer&height=120&text=Designed%20with%20%E2%9D%A4%EF%B8%8F%20by%20MistaDev&fontSize=22&fontColor=e63946" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&section=footer&height=50&text=Designed%20with%20%E2%9D%A4%EF%B8%8F%20by%20MistaDev&fontSize=15&fontColor=e63946" width="100%" alt="Footer" />
 </div>
