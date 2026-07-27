@@ -35,7 +35,7 @@
 const mistaDev = {
   name: "MistaDev",
   role: "Software Developer",
-  coreStack: "Node,js",
+  coreStack: "Node.js",
   location: "Indonesia"
 };
 ```
