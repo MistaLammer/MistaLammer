@@ -40,7 +40,7 @@ const mistaDev = {
 };
 ```
 
-> **Halo! Saya MistaDev** 👋 — Seorang **Software Developer** yang berfokus utama pada arsitektur **Node.js** & Backend Engineering. Saya berdedikasi membangun sistem perangkat lunak yang *scalable*, aman, dan siap menangani beban trafik tinggi. Berpengalaman dalam pengembangan API, integrasi database, hingga pengolahan data *real-time*.
+> **Halo! Saya MistaDev** 👋, Saya adalah seorang **Software Developer** yang berfokus utama pada arsitektur **Node.js** & Backend Engineering. Saya berdedikasi membangun sistem perangkat lunak yang *scalable*, aman, dan siap menangani beban trafik tinggi. Berpengalaman dalam pengembangan API, integrasi database, hingga pengolahan data *real-time*.
 
 ---
 
