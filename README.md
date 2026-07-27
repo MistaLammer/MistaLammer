@@ -38,3 +38,12 @@ const mistaDev = {
   coreStack: "Node.js",
   location: "Indonesia"
 };
+```
+
+> **Halo! Saya MistaDev** 👋, Saya adalah seorang **Software Developer** yang berfokus utama pada arsitektur **Node.js** & Backend Engineering. Saya berdedikasi membangun sistem perangkat lunak yang *scalable*, aman, dan siap menangani beban trafik tinggi. Berpengalaman dalam pengembangan API, integrasi database, hingga pengolahan data *real-time*.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&section=footer&height=50&text=Designed%20with%20%E2%9D%A4%EF%B8%8F%20by%20MistaDev&fontSize=15&fontColor=e63946" width="100%" alt="Footer" />
+</div>
