@@ -35,36 +35,14 @@
 const mistaDev = {
   name: "MistaDev",
   role: "Software Developer",
-  coreStack: ["Node.js", "TypeScript", "Express.js", "NestJS", "PostgreSQL", "Redis"],
-  architecture: ["Microservices", "Event-Driven Architecture", "REST & GraphQL APIs"],
-  philosophy: "Clean code, high scalability, and robust performance.",
-  location: "Indonesia 🇮🇩",
-  currentFocus: "Architecting high-throughput backend services and cloud deployments"
+  coreStack: "Node,js",
+  location: "Indonesia"
 };
 ```
 
-> **Halo! Saya MistaDev** 👋 — Seorang **Software Developer** yang berfokus utama pada arsitektur **Node.js** & Backend Engineering. Saya berdedikasi membangun sistem perangkat lunak yang *scalable*, aman, dan siap menangani beban trafik tinggi. Berpengalaman dalam pengembangan API, integrasi database, pembuatan microservices, hingga pengolahan data *real-time*.
+> **Halo! Saya MistaDev** 👋 — Seorang **Software Developer** yang berfokus utama pada arsitektur **Node.js** & Backend Engineering. Saya berdedikasi membangun sistem perangkat lunak yang *scalable*, aman, dan siap menangani beban trafik tinggi. Berpengalaman dalam pengembangan API, integrasi database, hingga pengolahan data *real-time*.
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Communication/Incoming%20Envelope.png" width="30" height="30" /> Connect With Me
-
-<div align="center">
-  <a href="mailto:mistadev.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2b2b2b&labelColor=e63946" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/mistadev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=2b2b2b&labelColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/mistadev">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&color=2b2b2b&labelColor=d62828" alt="Twitter" />
-  </a>
-  <a href="https://discord.gg">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=2b2b2b&labelColor=5865F2" alt="Discord" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&section=footer&height=120&text=Designed%20with%20%E2%9D%A4%EF%B8%8F%20by%20MistaDev&fontSize=22&fontColor=e63946" width="100%" alt="Footer" />
