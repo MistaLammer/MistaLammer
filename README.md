@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vcenter=true&width=600&height=50&lines=Building+Scalable+Backend+Architectures;Node.js+%26+TypeScript+Specialist;High-Performance+REST+%26+GraphQL+APIs;Microservices+%26+Cloud-Native+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vcenter=true&width=600&height=50&lines=Building+Scalable+Backend+Architectures;Node.js+Backend+Specialist;High-Performance+REST+APIs;Microservices+%26+Cloud-Native+Solutions)](https://git.io/typing-svg)
 
 </div>
 
