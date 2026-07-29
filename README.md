@@ -12,10 +12,10 @@
 
 <div align="center">
   <a href="https://github.com/RafinoPrimayoga">
-    <img src="https://img.shields.io/github/followers/RafinoPrimayoga?label=Followers&logo=github&style=for-the-badge&color=e63946&labelColor=2b2b2b" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/VinoJunior-Dev?label=Followers&logo=github&style=for-the-badge&color=e63946&labelColor=2b2b2b" alt="Followers"/>
   </a>
   <a href="https://github.com/RafinoPrimayoga">
-    <img src="https://img.shields.io/github/stars/RafinoPrimayoga?style=for-the-badge&logo=github&color=e63946&labelColor=2b2b2b" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/VinoJunior-Dev?style=for-the-badge&logo=github&color=e63946&labelColor=2b2b2b" alt="Stars"/>
   </a>
   <a href="https://github.com/RafinoPrimayoga">
     <img src="https://img.shields.io/badge/Focus-Express.js%20Ecosystem-e63946?style=for-the-badge&logo=express&logoColor=white&labelColor=2b2b2b" alt="Focus"/>
